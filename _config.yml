@@ -4,7 +4,7 @@ name: YongtKim
 description: 잘 배우자
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://YongtKim.github.io
+url: 
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
@@ -13,7 +13,7 @@ url: https://YongtKim.github.io
 baseurl: '' 
 
 # This can be '' to hide the Github nav button
-github: 'YongtKim'
+github: ''
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: 'UA-87353572-1'
